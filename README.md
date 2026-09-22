@@ -3,7 +3,7 @@
     <h3>Building, Solving and scaling ideas</h3>
 </div>
 
-<div>
+<div align="center">
 
 # About Me
 
@@ -15,16 +15,6 @@
 
 </div>
 
-<div name="tools" class="row">
-
-
-<div align="center">
-
-# GitHub Stats
-<p>
-    <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=vrathodev&show_icons=true&theme=transparent&locale=en&layout=compact&langs_count=10&title_color=ffffff&text_color=ffffff" alt="vrathodev" />
-</p>
-</div>
 
 <div align="center">
 

@@ -5,8 +5,6 @@
 
 <div align="center">
 
-# About Me
-
 🔭 Check out my latest product [SmartGit](https://github.com/vrathodev/SmartGit)
 
 📫 To collaborate, drop me an email on <a href="mailto:vrathod.professional@gmail.com">vrathod.professional@gmail.com</a>
@@ -18,7 +16,8 @@
 
 <div align="center">
 
-# Let's Connect
+## Let's Connect
+
 <p>
 <a href="https://linkedin.com/in/vipulrathod7" target="blank">
     <img width="50" height="50" src="https://img.icons8.com/ios/500/ffffff/linkedin.png" alt="linkedin"/>
@@ -30,4 +29,5 @@
     <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png" alt="gmail-new"/>
 </a>
 </p>
+
 </div>
